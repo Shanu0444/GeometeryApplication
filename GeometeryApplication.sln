@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMetryConsole", "GeoMetryConsole\GeoMetryConsole.csproj", "{484075D6-0BC7-4D1E-8B9B-4E1A369F3681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometeryTests", "GeometeryTests\GeometeryTests.csproj", "{0A09D822-3266-41AC-9039-71B9B2E0B35F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometeryLiberary", "GeometeryLiberary\GeometeryLiberary.csproj", "{C252D3ED-5921-48BF-BBE5-0FAF36958A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484075D6-0BC7-4D1E-8B9B-4E1A369F3681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484075D6-0BC7-4D1E-8B9B-4E1A369F3681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484075D6-0BC7-4D1E-8B9B-4E1A369F3681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484075D6-0BC7-4D1E-8B9B-4E1A369F3681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A09D822-3266-41AC-9039-71B9B2E0B35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A09D822-3266-41AC-9039-71B9B2E0B35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A09D822-3266-41AC-9039-71B9B2E0B35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A09D822-3266-41AC-9039-71B9B2E0B35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C252D3ED-5921-48BF-BBE5-0FAF36958A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C252D3ED-5921-48BF-BBE5-0FAF36958A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C252D3ED-5921-48BF-BBE5-0FAF36958A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C252D3ED-5921-48BF-BBE5-0FAF36958A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
